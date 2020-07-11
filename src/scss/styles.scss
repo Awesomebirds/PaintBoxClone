@@ -1,8 +1,9 @@
 @import "reset";
 
-body {
-  background: peru;
-  a {
-    color: blue;
-  }
+* {
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
 }
